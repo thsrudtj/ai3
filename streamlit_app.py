@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    lables[0] :{"text" : ["중국식 냉면은 맛있어"], "images": ["https://i.namu.wiki/i/SirkrXrlSE4piSsjJyiugvhbNr_WJkJEGbD3Kycw8LtISueKXehbGAYF5vzC2EUX19rWaSU3OLWpac8q5shTDQ.webp"]},
-    lables[1] :{"text" : ["짜장면은 맛있어"], "images": ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]},
-    lables[2] :{"text" : ["짬뽕은 맛있어"], "images": ["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp"]},
-    lables[3] :{"text" : ["탕수육은 맛있어"], "images": ["https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp"]},
+    labels[0] :{"text" : ["중국식 냉면은 맛있어"], "images": ["https://i.namu.wiki/i/SirkrXrlSE4piSsjJyiugvhbNr_WJkJEGbD3Kycw8LtISueKXehbGAYF5vzC2EUX19rWaSU3OLWpac8q5shTDQ.webp"]},
+    labels[1] :{"text" : ["짜장면은 맛있어"], "images": ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]},
+    labels[2] :{"text" : ["짬뽕은 맛있어"], "images": ["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp"]},
+    labels[3] :{"text" : ["탕수육은 맛있어"], "images": ["https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp"]},
 }
 
 
